@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+
+    <!--Song Item-->
+    <string name="song_title">Song Title</string>
+    <string name="song_artist">Song Artist</string>
+
+    <!--Permissions Toast-->
+    <string name="read_external_storage_required">Read external storage permission is required</string>
+    <string name="read_external_storage_failed">Failed to access external storage</string>
+    <string name="ok">OK</string>
+    <string name="read_external_storage_permission_denied">Read external storage denied</string>
+    <string name="read_external_storage_permission_granted">Read external storage granted</string>
+
+    <!--Play Song Activity xml-->
+    <string name="now_playing">Now Playing</string>
+    <string name="play_button">Play button</string>
+
+</resources>
