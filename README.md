@@ -1,2 +1,2 @@
-# android_media_player
+# Android Media Player
 Audio media player using Android Java
